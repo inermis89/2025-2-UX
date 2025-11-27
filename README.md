@@ -38,7 +38,7 @@
 	- 강의자료: [슬라이드/강의안](https://docs.google.com/presentation/d/1o9E3cG8goplRj4mfoymmd3fTuTdFyhE5v4wjs2GdqUk/edit?usp=sharing)
 
 12. 11주차 — 팀 발표와 피드백 (11/27) (LG U+ 정현주 전무님)
-	 - 강의자료: [발표자료(추가예정)](LINK_HERE)
+	 - 강의자료: [발표자료](LINK_HERE)
 
 13. 12주차 — 기말 시험 (12/4)
 
