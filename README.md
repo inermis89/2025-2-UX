@@ -34,18 +34,18 @@
 9. 9주차 — 서비스 디자인과 데이터기반 의사결정 (11/13)
 	- 강의자료: [슬라이드/강의안](https://docs.google.com/presentation/d/1NyR0jJZipQkmc6xuZtaxtxYFw_DyJiZNmoUJ1uPBp_I/edit?usp=sharing)
 
-10. 10주차 — 그로스해킹 관계와 용어 및 UX 사례 분석 (11/20)
+10. 10주차 — 서비스 디자인과 데이터기반 의사결정 2 (11/20)
 	- 강의자료: [슬라이드/강의안](https://docs.google.com/presentation/d/1o9E3cG8goplRj4mfoymmd3fTuTdFyhE5v4wjs2GdqUk/edit?usp=sharing)
 
-11. 11주차 — 팀 발표와 피드백 (11/27) (LG U+ 정현주 전무님)
+12. 11주차 — 팀 발표와 피드백 (11/27) (LG U+ 정현주 전무님)
 	 - 강의자료: [발표자료(추가예정)](LINK_HERE)
 
-12. 12주차 — 기말 시험 (12/4)
+13. 12주차 — 기말 시험 (12/4)
 
-13. 13주차 — AI 주도 개발 시대, 효율적인 서비스 기획 방법 (매니패스트 허재혁 대표) (12/11)
+14. 13주차 — AI 주도 개발 시대, 효율적인 서비스 기획 방법 (매니패스트 허재혁 대표) (12/11)
 	 - 강의자료: [슬라이드/강의안(추후 업로드 예정)](LINK_HERE)
 
-14. 학기 Wrap-up
+15. 학기 Wrap-up
 
 ---
 
